@@ -28,8 +28,11 @@ Projeto para agragr no meu portfólio e agregar valor aos meus conhecimentos. Es
  - [Link do projeto no github](https://github.com/AllanSouzaSilva/toms-jazz-escola)
 
 
-## Screenshots
+## Screenshots Desktop
 
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Screenshots Desktop
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Documentação de cores
