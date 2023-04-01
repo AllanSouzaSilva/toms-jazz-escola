@@ -1,12 +1,24 @@
 
-# Tom's Jazz Scholl
+#  🚀  [Tom's Jazz School](tomsjazzescola.netlify.app).
 <p align="center"><b>Status: Concluido ✅ </p>
 
 <p align="center"><b>
-Projeto para agragr no meu portfólio e agregar valor aos meus conhecimentos. Esse projeto é baseado em uma escola músical, aonde se permite se inscrever, entrar em contato e sobre eventos. </p>
+Projeto para agragr no meu portfólio e agregar valor aos meus conhecimentos. Esse projeto é baseado em uma escola músical, aonde se permite se inscrever, entrar em contato e sobre eventos. 
+ </p>
 
-[DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
+
+
+ <!-- imagens-->
+<h2 align="center">
+<p>Screenshots Desktop</p>
+  <img width="70%" heigth="50%" alt="Sitehome" title="Home page" src="" style="max-width:90%;">
+</h2>
+
+<h2 align="center">
+<p>Screenshots Mobile</p>
+  <img width="30%" heigth="80%" alt="Sitehome" title="Home page" src="" style="max-width:90%;">
+</h2>
 
 # Stack utilizada
 
@@ -28,12 +40,6 @@ Projeto para agragr no meu portfólio e agregar valor aos meus conhecimentos. Es
  - [Link do projeto no github](https://github.com/AllanSouzaSilva/toms-jazz-escola)
 
 
-## Screenshots Desktop
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Screenshots Desktop
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Documentação de cores
 
