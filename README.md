@@ -1,5 +1,5 @@
 
-#  🚀  [Tom's Jazz School](tomsjazzescola.netlify.app).
+#  🚀  [Tom's Jazz School](https://tomsjazzescola.netlify.app/).
 <p align="center"><b>Status: Concluido ✅ </p>
 
 <p align="center"><b>
