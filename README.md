@@ -12,7 +12,7 @@ Projeto para agragr no meu portfólio e agregar valor aos meus conhecimentos. Es
  <!-- imagens-->
 <h2 align="center">
 <p>Screenshots Desktop</p>
-  <img width="50%" heigth="10%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/toms-jazz-escola/blob/main/imgLandingPagJazz/printMobileTomsJazz.png" style="max-width:90%;">
+  <img width="50%" heigth="10%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/toms-jazz-escola/blob/main/imgLandingPagJazz/projetotomsjazzschool.png" style="max-width:90%;">
 </h2>
 
 <h2 align="center">
